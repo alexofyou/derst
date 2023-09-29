@@ -1,0 +1,31 @@
+[
+      {
+          "image_url":"https://zaimua.com.ua/img/soscredit1.jpg",
+       "age":"від 18 до 65 років",
+         "percent":"2%",
+         "sum_one":"до 20 000 грн",
+    "days_info":"до 160 дней",
+         "url":"https://google.com",
+      },
+   
+  {
+          "image_url":"https://zaimua.com.ua/img/soscredit1.jpg",
+       "age":"від 18 до 65 років",
+         "percent":"3%",
+         "sum_one":"до 30 000 грн",
+    "days_info":"до 160 дней",
+         "url":"https://google.com",
+      },
+   
+  {
+         
+         "image_url":"https://zaimua.com.ua/img/soscredit1.jpg",
+       "age":"від 18 до 65 років",
+         "percent":"1%",
+         "sum_one":"до 50 000 грн",
+    "days_info":"до 160 дней",
+         "url":"https://google.com",
+         
+      }
+  
+]
